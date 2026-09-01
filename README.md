@@ -1,5 +1,5 @@
 # Ad-Hoc-reports-for-a-NBFC-Insurance-company
-
+ 
 ## Problem statement
 
 Insurance companies generate large volumes of data across customers, policies, agents, and claims. However, raw data alone does not answer critical business questions. The problem is “how can we use SQL to transform insurance data into actionable business insights such as premium performance, claim behavior, and agent effectiveness?”
